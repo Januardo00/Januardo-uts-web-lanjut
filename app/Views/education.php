@@ -208,7 +208,7 @@
             <li class="menu-toggle">
                 <button onclick="toggleMenu();">&#9776;</button>
             </li>
-            <li class="menu-item hidden"><a href="#">Prodi Sistem Informasi - Universitas Widyatama</a></li>
+            <li class="menu-item hidden"><a href="https://si.widyatama.ac.id/">Prodi Sistem Informasi-Universitas Widyatama</a>
             <li class="menu-item hidden"><a href="<?= site_url('/'); ?>">Home</a>
             <li class="menu-item hidden"><a href="<?= site_url('about'); ?>">About Me</a>
             <li class="menu-item hidden"><a href="<?= site_url('education'); ?>">Education</a>
