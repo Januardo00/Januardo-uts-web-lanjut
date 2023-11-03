@@ -222,13 +222,15 @@
         table {
             width: 100%;
             border-collapse: collapse;
+            text align: center;
         }
         table, th, td {
             border: 1px solid black;
+            text align: center;
         }
         th, td {
             padding: 8px;
-            text-align: left;
+            text-align: center;
         }
     </style>
 
