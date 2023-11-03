@@ -208,12 +208,12 @@
             <li class="menu-toggle">
                 <button onclick="toggleMenu();">&#9776;</button>
             </li>
-            <li class="menu-item hidden"><a href="#">Home</a></li>
-            <li class="menu-item hidden"><a href="https://codeigniter4.github.io/userguide/" target="_blank">Docs</a>
+            <li class="menu-item hidden"><a href="#">Prodi Sistem Informasi - Universitas Widyatama</a></li>
+            <li class="menu-item hidden"><a href="https://codeigniter4.github.io/userguide/" target="_blank">Home</a>
             </li>
-            <li class="menu-item hidden"><a href="https://forum.codeigniter.com/" target="_blank">Community</a></li>
+            <li class="menu-item hidden"><a href="https://forum.codeigniter.com/" target="_blank"></a>About Me</li>
             <li class="menu-item hidden"><a
-                    href="https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md" target="_blank">Contribute</a>
+                    href="https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md" target="_blank">Education</a>
             </li>
         </ul>
     </div>
