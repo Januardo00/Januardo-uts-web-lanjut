@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to Website</title>
+    <title>About Me</title>
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
@@ -212,17 +212,20 @@
             <li class="menu-item hidden"><a href="<?= site_url('/'); ?>">Home</a>
             <li class="menu-item hidden"><a href="<?= site_url('about'); ?>">About Me</a>
             <li class="menu-item hidden"><a href="<?= site_url('education'); ?>">Education</a>
-                 
+                   
             </li>
         </ul>
     </div>
 
     <div class="heroe">
 
-        <h1>Selamat Datang di Website Januardo Malega</h1>
+        <h1>About Me</h1>
 
-        <h2>Ini digunakan untuk menunjukan kompetensi saya dalam menggunalan framework HMVC dalam pengembangan
-            aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT.
+        <h2>Halo!, Perkenalkan nama saya Januardo Malega, saya berasal dari Cianjur, Jawa Barat. 
+            Saat ini saya sedang menempuh pendidikan S1 Sistem Informasi di Universitas Widyatama Bandung. Saya memiliki hobi dalam bermain bola basket, dari basket
+            saya mendapatkan banyak keuntungan salah satunya dapat kuliah di Widyatama secara gratis.
+            Ini hasil Ujian Tengah Semester matakuliah Pemrograman Web Lanjut.
+            <p>Terimakasih
         </h2>
 
     </div>
@@ -233,9 +236,7 @@
 
 <section>
 
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang.</p>
+    <p>Halaman ini merupakan halaman About Me.</p>
 
 
 </section>
